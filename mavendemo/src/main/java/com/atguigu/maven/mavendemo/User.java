@@ -11,5 +11,6 @@ public class User {
     private String address;
     private String mobiles;
     private String idCard;
+    private String school;
 
 }
